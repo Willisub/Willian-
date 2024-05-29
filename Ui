@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            background-color: aliceblue;
+        }
+        h1 {
+            background-color: brown;
+            padding: 10px;
+            text-align: center;
+        }
+        header {
+            background-color: lightgray;
+            padding: 20px;
+            text-align: center;
+        }
+        iframe {
+            display: block;
+            margin: 0 auto;
+        }
+        h4{
+            background-color: brown;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>do campo para a cidade</h1>
+
+    <header>
+        <h1 id="principal">10 áreas que têm mais vagas de emprego no Brasil</h1>
+        <h2>Quais são os trabalhos?</h2>
+        <h2>1. Emprego Comercial/Vendas</h2>
+        <p>O processo comercial de vendas é uma sequência de passos executados pela equipe de vendas para conhecer e apresentar as melhores soluções de uma empresa para os clientes em potencial (prospects).</p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/FOF3ED3AUE8?si=tx5fCLvuKRKjTxrv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <h3> 2. Área Administrativa</h3>
+        <p>Um setor administrativo é uma divisão ou departamento dentro de uma organização ou empresa que é responsável por lidar com as atividades relacionadas à gestão, organização e coordenação dos recursos e processos internos.</p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/B1yueYxK_u0?si=6x_pauCL0yQKQmCb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <h3> 3. Gastronomia</h3>
+        <p>A gastronomia envolve profissões que lidam com qualidade dos processos e atendimento a clientes, além do preparo de alimentos. As principais atuações estão listadas abaixo, e ainda há outras possibilidades de especializações. <br>A atenção aos detalhes garante sempre a melhor experiência gastronômica para os clientes.</p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/5UROnSKvWi4?si=2-BqzdHDoI0vW14Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <h3> 4. Logística</h3>
+        <p>A logística é o processo de coordenar e movimentar recursos (materiais, estoque e equipamentos) desde o local de armazenamento até o destino desejado. O termo logística tem origem militar e refere-se à movimentação de equipamentos e suprimentos para as tropas em campo de combate.</p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/XpP7ebpUgjc?si=5P2L8k7WVPYbvUMa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <h3> 5. Construção Civil</h3>
+        <p>O segmento da Construção Civil alcança toda e qualquer atividade relacionada à produção de obras. Assim, podemos incluir aqui as funções de planejamento, projetos, execução,
+             manutenção e restauração de obras.</p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/OE4cL-rP9YM?si=sdTcNrHOV4Qt9tpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>        
+         <h4> quais areas pagam mais</h4>
+         <h5>
+            1. Medicina e Saúde
+         </h5>
+         <p>O salário médio de profissionais formados em medicina é de R$11.750/mês, de acordo com o Glassdoor. Algumas especialidades, como a especialização em cirurgia plástica, 
+        podem garantir remunerações ainda maiores, chegando a uma média de R$19.135,00 mensais.</p>
+
+        <h5>engenharia</h5>
+        <p>A remuneração média na área da engenharia depende da especialização e experiência do profissional. De acordo com o Glassdoor, o salário médio de um Engenheiro no Brasil é de R$10.000, mas algumas especialidades podem alcançar salários ainda mais altos.
+        
+        Um Engenheiro de Petróleo, por exemplo, pode ganhar em média R$15.000, podendo chegar a R$60.000 se for em um cargo de gerência.</p>
+    </header>
